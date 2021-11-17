@@ -23,24 +23,24 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Shm00lik</o:Author>
   <o:LastAuthor>LEYOAV33</o:LastAuthor>
-  <o:Revision>20</o:Revision>
-  <o:TotalTime>373</o:TotalTime>
+  <o:Revision>13</o:Revision>
+  <o:TotalTime>368</o:TotalTime>
   <o:Created>2021-11-17T14:40:00Z</o:Created>
-  <o:LastSaved>2021-11-17T16:43:00Z</o:LastSaved>
+  <o:LastSaved>2021-11-17T16:38:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>244</o:Words>
-  <o:Characters>1396</o:Characters>
-  <o:Lines>11</o:Lines>
-  <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1637</o:CharactersWithSpaces>
+  <o:Words>209</o:Words>
+  <o:Characters>1197</o:Characters>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1404</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="index.files/item0063.xml"
-target="index.files/props064.xml">
+<link rel=dataStoreItem href="index.files/item0055.xml"
+target="index.files/props056.xml">
 <link rel=themeData href="index.files/themedata.thmx">
 <link rel=colorSchemeMapping href="index.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
@@ -857,7 +857,7 @@ lang=HE dir=RTL style='font-size:10.0pt;line-height:105%;font-family:"Secular On
 color:#A6A6A6;mso-themecolor:background1;mso-themeshade:166;mso-style-textfill-fill-color:
 #A6A6A6;mso-style-textfill-fill-themecolor:background1;mso-style-textfill-fill-alpha:
 100.0%;mso-style-textfill-fill-colortransforms:lumm=65000;mso-no-proof:yes'>17/11/2021
-18:43</span><!--[if supportFields]><span dir=RTL style='font-size:10.0pt;
+18:34</span><!--[if supportFields]><span dir=RTL style='font-size:10.0pt;
 line-height:105%;font-family:"Secular One";color:#A6A6A6;mso-themecolor:background1;
 mso-themeshade:166;mso-style-textfill-fill-color:#A6A6A6;mso-style-textfill-fill-themecolor:
 background1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
@@ -941,7 +941,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  height:36pt'>
  <v:imagedata src="index.files/image001.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=128 height=48
-src="index.files/image002.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image049.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1001,7 +1001,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:168pt;height:33pt'>
  <v:imagedata src="index.files/image003.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=224 height=44
-src="index.files/image004.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image050.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1077,7 +1077,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:132pt;height:36pt'>
  <v:imagedata src="index.files/image005.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=176 height=48
-src="index.files/image006.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image051.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1097,10 +1097,10 @@ mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-the
 minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;
 mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
 EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
- type="#_x0000_t75" style='width:71.5pt;height:33pt'>
+ type="#_x0000_t75" style='width:71.25pt;height:33pt'>
  <v:imagedata src="index.files/image007.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=95 height=44
-src="index.files/image008.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image052.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1203,7 +1203,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:262.5pt;height:33pt'>
  <v:imagedata src="index.files/image009.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=350 height=44
-src="index.files/image010.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image053.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1306,7 +1306,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:262.5pt;height:33pt'>
  <v:imagedata src="index.files/image011.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=350 height=44
-src="index.files/image012.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image054.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1393,7 +1393,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:298.5pt;height:36pt'>
  <v:imagedata src="index.files/image013.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=398 height=48
-src="index.files/image014.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image055.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1495,7 +1495,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:244.5pt;height:36pt'>
  <v:imagedata src="index.files/image015.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=326 height=48
-src="index.files/image016.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image056.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1612,7 +1612,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:408pt;height:37.5pt'>
  <v:imagedata src="index.files/image017.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=544 height=50
-src="index.files/image018.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image057.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1677,7 +1677,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:160.5pt;height:36pt'>
  <v:imagedata src="index.files/image019.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=214 height=48
-src="index.files/image020.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image058.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1751,7 +1751,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:222pt;height:40pt'>
  <v:imagedata src="index.files/image021.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=296 height=53
-src="index.files/image022.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image059.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1870,7 +1870,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:183pt;height:36pt'>
  <v:imagedata src="index.files/image023.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=244 height=48
-src="index.files/image024.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image060.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -1959,7 +1959,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:115.5pt;height:40.5pt'>
  <v:imagedata src="index.files/image025.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=154 height=54
-src="index.files/image026.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image061.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2071,7 +2071,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:219pt;height:37pt'>
  <v:imagedata src="index.files/image027.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=292 height=49
-src="index.files/image028.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image062.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2183,7 +2183,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:229.5pt;height:37pt'>
  <v:imagedata src="index.files/image029.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=306 height=49
-src="index.files/image030.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image063.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2248,7 +2248,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:75pt;height:33pt'>
  <v:imagedata src="index.files/image031.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=100 height=44
-src="index.files/image032.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image064.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2304,7 +2304,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:116.5pt;height:37pt'>
  <v:imagedata src="index.files/image033.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=155 height=49
-src="index.files/image034.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image065.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2397,7 +2397,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:148pt;height:33pt'>
  <v:imagedata src="index.files/image035.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=197 height=44
-src="index.files/image036.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><![if !supportLineBreakNewLine]><br
+src="index.files/image066.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><![if !supportLineBreakNewLine]><br
 style='mso-special-character:line-break'>
 <![endif]><span lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;
 font-family:"Secular One";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
@@ -2473,7 +2473,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:112.5pt;height:35.5pt'>
  <v:imagedata src="index.files/image037.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=150 height=47
-src="index.files/image038.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image067.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2557,7 +2557,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:139pt;height:37.5pt'>
  <v:imagedata src="index.files/image039.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=185 height=50
-src="index.files/image040.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><![if !supportLineBreakNewLine]><br
+src="index.files/image068.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><![if !supportLineBreakNewLine]><br
 style='mso-special-character:line-break'>
 <![endif]><span style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
@@ -2623,7 +2623,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:157.5pt;height:34pt'>
  <v:imagedata src="index.files/image041.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=210 height=45
-src="index.files/image042.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image069.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2696,7 +2696,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:251pt;height:35.5pt'>
  <v:imagedata src="index.files/image043.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=335 height=47
-src="index.files/image044.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image070.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
 mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2778,7 +2778,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:274.5pt;height:37.5pt'>
  <v:imagedata src="index.files/image045.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=366 height=50
-src="index.files/image046.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image071.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -2898,7 +2898,7 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:145.5pt;height:55.5pt'>
  <v:imagedata src="index.files/image047.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=194 height=74
-src="index.files/image048.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image072.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
@@ -3019,343 +3019,13 @@ EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
  type="#_x0000_t75" style='width:261pt;height:55.5pt'>
  <v:imagedata src="index.files/image073.png" o:title="" chromakey="white"/>
 </v:shape><![endif]--><![if !vml]><img width=348 height=74
-src="index.files/image075.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
+src="index.files/image074.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
 style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
 "Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><!--[if gte msEquation 12]><m:oMathPara><m:oMath><m:d><m:dPr><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>x</m:r><m:r>&gt;0</m:r></span></i></m:e></m:d><i
-  style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;line-height:
-  105%;font-family:"Cambria Math",serif;mso-fareast-font-family:"Times New Roman";
-  mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Secular One"'><m:r>&#8594;</m:r></span></i><m:nary><m:naryPr><m:limLoc
-     m:val="undOvr"/><m:subHide m:val="on"/><m:supHide m:val="on"/><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:naryPr><m:sub></m:sub><m:sup></m:sup><m:e><m:f><m:fPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>1</m:r></span></i></m:num><m:den><i style='mso-bidi-font-style:
-      normal'><span style='font-size:14.0pt;line-height:105%;font-family:"Cambria Math",serif;
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-bidi-font-family:"Secular One"'><m:r>2</m:r></span></i><m:rad><m:radPr><m:degHide
-         m:val="on"/><span style='font-size:14.0pt;mso-ansi-font-size:14.0pt;
-        mso-bidi-font-size:14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:
-        "Cambria Math";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-        minor-fareast;mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:
-        "Secular One";font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:radPr><m:deg></m:deg><m:e><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>x</m:r></span></i></m:e></m:rad></m:den></m:f><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>dx</m:r><m:r>=</m:r></span></i><m:rad><m:radPr><m:degHide
-       m:val="on"/><span style='font-size:14.0pt;mso-ansi-font-size:14.0pt;
-      mso-bidi-font-size:14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:
-      "Cambria Math";mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-      minor-fareast;mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:
-      "Secular One";font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:radPr><m:deg></m:deg><m:e><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>x</m:r></span></i></m:e></m:rad></m:e></m:nary></m:oMath></m:oMathPara><![endif]--><![if !msEquation]><span
-style='font-size:11.0pt;line-height:105%;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;
-mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
- type="#_x0000_t75" style='width:157pt;height:36pt'>
- <v:imagedata src="index.files/image076.png" o:title="" chromakey="white"/>
-</v:shape><![endif]--><![if !vml]><img width=209 height=48
-src="index.files/image077.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
-style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal align=center dir=RTL style='text-align:center;direction:
-rtl;unicode-bidi:embed'><span class=SpellE><u><span lang=HE style='font-size:
-18.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:minor-fareast'>&#1488;&#1497;&#1504;&#1496;&#1490;&#1512;&#1500;&#1497;&#1501;</span></u></span><u><span
-lang=HE style='font-size:18.0pt;line-height:105%;font-family:"Secular One";
-mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'>
-&#1513;&#1500; &#1508;&#1493;&#1504;&#1511;&#1510;&#1497;&#1493;&#1514;
-&#1495;&#1494;&#1511;&#1492; &#1506;&#1501; &#1502;&#1506;&#1512;&#1497;&#1498;
-&#1512;&#1510;&#1497;&#1493;&#1504;&#1500;&#1497;<o:p></o:p></span></u></p>
-
-<p class=MsoNormal align=center style='text-align:center'><!--[if gte msEquation 12]><m:oMathPara><m:oMath><span
-  dir=LTR></span><i style='mso-bidi-font-style:normal'><span style='font-size:
-  14.0pt;line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-  "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-  "Secular One"'><span dir=LTR></span><m:r>(</m:r><m:r>m</m:r><m:r>&#8800;0,</m:r></span></i><m:f><m:fPr><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i style='mso-bidi-font-style:
-    normal'><span style='font-size:14.0pt;line-height:105%;font-family:"Cambria Math",serif;
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-bidi-font-family:"Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-  style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;line-height:
-  105%;font-family:"Cambria Math",serif;mso-fareast-font-family:"Times New Roman";
-  mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Secular One"'><m:r>&#8800;</m:r><m:r>-</m:r><m:r>1)&#8594;</m:r></span></i><m:nary><m:naryPr><m:limLoc
-     m:val="undOvr"/><m:subHide m:val="on"/><m:supHide m:val="on"/><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:naryPr><m:sub></m:sub><m:sup></m:sup><m:e><m:sSup><m:sSupPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:sSupPr><m:e><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>x</m:r></span></i></m:e><m:sup><m:f><m:fPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>m</m:r></span></i></m:den></m:f></m:sup></m:sSup><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>dx</m:r><m:r>=</m:r></span></i><m:f><m:fPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><m:sSup><m:sSupPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:sSupPr><m:e><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>x</m:r></span></i></m:e><m:sup><m:f><m:fPr><span
-          style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-          14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-          mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-          minor-fareast;mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:
-          "Secular One";font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>+1</m:r></span></i></m:sup></m:sSup></m:num><m:den><m:f><m:fPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>+1</m:r></span></i></m:den></m:f></m:e></m:nary></m:oMath></m:oMathPara><![endif]--><![if !msEquation]><span
-style='font-size:11.0pt;line-height:105%;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;
-mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
- type="#_x0000_t75" style='width:225pt;height:56.5pt'>
- <v:imagedata src="index.files/image078.png" o:title="" chromakey="white"/>
-</v:shape><![endif]--><![if !vml]><img width=300 height=75
-src="index.files/image079.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
-style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><!--[if gte msEquation 12]><m:oMathPara><m:oMath><m:d><m:dPr><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>a</m:r><m:r>&#8800;0, </m:r><m:r>m</m:r><m:r>&#8800;0,</m:r></span></i><m:f><m:fPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i style='mso-bidi-font-style:
-      normal'><span style='font-size:14.0pt;line-height:105%;font-family:"Cambria Math",serif;
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-bidi-font-family:"Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>&#8800;</m:r><m:r>-</m:r><m:r>1</m:r></span></i></m:e></m:d><i
-  style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;line-height:
-  105%;font-family:"Cambria Math",serif;mso-fareast-font-family:"Times New Roman";
-  mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:"Secular One"'><m:r>&#8594;</m:r></span></i><m:nary><m:naryPr><m:limLoc
-     m:val="undOvr"/><m:subHide m:val="on"/><m:supHide m:val="on"/><span
-    style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:14.0pt;
-    font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-    mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-    mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-    font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:naryPr><m:sub></m:sub><m:sup></m:sup><m:e><m:sSup><m:sSupPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:sSupPr><m:e><m:d><m:dPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>ax</m:r><m:r>+</m:r><m:r>b</m:r></span></i></m:e></m:d></m:e><m:sup><m:f><m:fPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>m</m:r></span></i></m:den></m:f></m:sup></m:sSup><i
-    style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-    line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-    "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-    "Secular One"'><m:r>dx</m:r><m:r>=</m:r></span></i><m:f><m:fPr><span
-      style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-      14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-      mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-      mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-      font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>(</m:r><m:r>ax</m:r><m:r>+</m:r></span></i><m:sSup><m:sSupPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:sSupPr><m:e><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>b</m:r><m:r>)</m:r></span></i></m:e><m:sup><m:f><m:fPr><span
-          style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-          14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-          mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-          minor-fareast;mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:
-          "Secular One";font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>+1</m:r></span></i></m:sup></m:sSup></m:num><m:den><i
-      style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-      line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-      "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-      "Secular One"'><m:r>a</m:r><m:r>&#8729;</m:r></span></i><m:d><m:dPr><span
-        style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-        14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-        mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
-        mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:"Secular One";
-        font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:dPr><m:e><m:f><m:fPr><span
-          style='font-size:14.0pt;mso-ansi-font-size:14.0pt;mso-bidi-font-size:
-          14.0pt;font-family:"Cambria Math",serif;mso-ascii-font-family:"Cambria Math";
-          mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-          minor-fareast;mso-hansi-font-family:"Cambria Math";mso-bidi-font-family:
-          "Secular One";font-style:italic;mso-bidi-font-style:normal'><m:ctrlPr></m:ctrlPr></span></m:fPr><m:num><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>k</m:r></span></i></m:num><m:den><i
-          style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-          line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-          "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-          "Secular One"'><m:r>m</m:r></span></i></m:den></m:f><i
-        style='mso-bidi-font-style:normal'><span style='font-size:14.0pt;
-        line-height:105%;font-family:"Cambria Math",serif;mso-fareast-font-family:
-        "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
-        "Secular One"'><m:r>+1</m:r></span></i></m:e></m:d></m:den></m:f></m:e></m:nary></m:oMath></m:oMathPara><![endif]--><![if !msEquation]><span
-style='font-size:11.0pt;line-height:105%;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;
-mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
-EN-US;mso-bidi-language:HE'><!--[if gte vml 1]><v:shape id="_x0000_i1025"
- type="#_x0000_t75" style='width:346.5pt;height:57pt'>
- <v:imagedata src="index.files/image082.png" o:title="" chromakey="white"/>
-</v:shape><![endif]--><![if !vml]><img width=462 height=76
-src="index.files/image084.png" v:shapes="_x0000_i1025"><![endif]></span><![endif]><span
-style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:14.0pt;line-height:105%;font-family:"Secular One";mso-fareast-font-family:
-"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal align=center style='text-align:center'><span lang=HE
+dir=RTL style='font-size:14.0pt;line-height:105%;font-family:"Secular One";
+mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
